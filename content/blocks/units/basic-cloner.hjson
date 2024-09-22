@@ -1,4 +1,3 @@
-{
 type: UnitFactory
 name: "Basic Object Cloner"
 description: "Clones a generic living object."
@@ -8,15 +7,16 @@ size: 3
 itemCapacity: 300
 
 requirements: [
-    contestant-essence/5
-]
+    contestant-essence/1
+    silicon/15
+    ]
 
 plans: [
     {
         unit: generic-object-unit
         requirements: [
-            dummy/20
-        ]
+            lead/20
+            ]
         time: 1000
     }
 ]
@@ -28,7 +28,5 @@ consumes: {
     power: 2
 }
 
-//research: command-center
-research: bad-drawing
+research: command-center
 category: units
-}
