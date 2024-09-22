@@ -10,12 +10,6 @@ research: bad-drawing
 alwaysUnlocked: true
 teir: 1
 
-drillables: [
-    "coal",
-    "copper",
-    "lead"
-]
-
 requirements: [
     "copper/1"
 ]
