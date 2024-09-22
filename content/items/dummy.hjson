@@ -1,8 +1,7 @@
 {
-name: "[debug] Dummy"
+name: dum
 description: placeholder
 hardness: 1
 cost: 0.5
 alwaysUnlocked: true
-research: bad-drawing
 }
