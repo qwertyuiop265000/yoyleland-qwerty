@@ -8,7 +8,7 @@ size: 3
 category: production
 research: bad-drawing
 alwaysUnlocked: true
-teir: 100
+teir: 1
 
 drillables: [
     "coal",
